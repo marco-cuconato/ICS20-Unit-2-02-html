@@ -1,0 +1,19 @@
+/* Created by: marco-cuconato
+* Created on: mar 2022
+* This CSS file defines the style for index.html ICS20-Unit2-02-html 
+*/
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: rgb(255 165 0);
+  color: hsl("147deg" 50% 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #1cb5d4;
+}
